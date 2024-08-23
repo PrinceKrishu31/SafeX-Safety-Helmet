@@ -1,6 +1,6 @@
 # Safe-X: The Smart Safety Helmet
 
-![Safe-X Logo](logolink.jpg)
+![Safe-X Logo](/blob/main/logolink.jpg)
 
 ## 🚀 About Safe-X
 
